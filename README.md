@@ -2,7 +2,7 @@
 This Repo will be used for extracting location specific information from IP Address
 
 Note:
-Update "LOCAL_CITY_FILE_PATH" in "ip_parser.go"."LOCAL_CITY_FILE_PATH" refers to the path where mmdb file is downloaded.
+Update LOCAL_CITY_FILE_PATH in "ip_parser.go".LOCAL_CITY_FILE_PATH refers to the path where mmdb file is downloaded.
 
 How It Works:
 1) Run ip_parser.go
